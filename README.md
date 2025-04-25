@@ -1,1 +1,1 @@
-This repo contains applications that can be used for demo purpose.
+This repo contains applications which can be used for demo purpose.
